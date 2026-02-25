@@ -156,3 +156,6 @@ Sudah menangani:
    php artisan key:generate
    php artisan migrate
    php artisan serve
+<img width="960" height="449" alt="mer" src="https://github.com/user-attachments/assets/710e2ee7-887a-4cf2-89c5-3cece38096bb" />
+<img width="960" height="451" alt="cus" src="https://github.com/user-attachments/assets/b91efa4a-40ca-4ccd-a8e9-c20186cd7eee" />
+
